@@ -1,45 +1,39 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Exercícios sobre Dividir e Conquistar
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 38<br>
+**Conteúdo da Disciplina**: Dividir e Conquistar<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0142260  |  Mateus de Almeida Dias |
+| 19/0101792  |  Ana Carolina Rodrigues Leite |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Este projeto foi feito com a resolução de 4 exercícios abordando o tema de Dividir e Conquistar. Os exercícios foram retirados dos sites: [Beecrowd](https://www.beecrowd.com.br/judge/pt/login), [LeetCode](https://leetcode.com/) . 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+### Exercício 1 - "Count of Smaller Numbers After Sel"
+![WhatsApp Image 2023-06-18 at 10 51 29](https://github.com/projeto-de-algoritmos/DC_Exercicios_Dupla38/assets/49570180/c7d99f18-cc5a-4150-b2df-273486ae64b8)
+
+### Exercício 2 - "Count of Range Sum"
+![WhatsApp Image 2023-06-18 at 11 00 39](https://github.com/projeto-de-algoritmos/DC_Exercicios_Dupla38/assets/49570180/2bf42984-19af-4c92-84fc-c883c6b61c62)
+
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python<br>
+Para rodar os exercícios na linguagem Python, é necessário ter a linguagem Python instalada.
+
+**Linguagem**: C<br>
+Para rodar os exercícios na linguagem C, utilize o compilador do GCC.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Rode os exercícios de acordo com a linguagem respectiva:
+  - Para os exercícios em python, basta fazer uma cópia do código e rodar o comando:
+      python nome_programa.py
+  - Para os exercícios em C, basta fazer uma cópia do código e rodar o comando:
+       gcc c –o [nome_do_programa].exe [nome_do_programa].c
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
+Para saber mais sobre os exercícios, veja no vídeo [aqui]().
