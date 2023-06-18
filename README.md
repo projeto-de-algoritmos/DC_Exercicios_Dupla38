@@ -15,9 +15,13 @@ Este projeto foi feito com a resolução de 4 exercícios abordando o tema de Di
 ## Screenshots
 
 ### Exercício 1 - "Count of Smaller Numbers After Sel"
+
+**Nível do exercício:** Difícil
 ![WhatsApp Image 2023-06-18 at 10 51 29](https://github.com/projeto-de-algoritmos/DC_Exercicios_Dupla38/assets/49570180/c7d99f18-cc5a-4150-b2df-273486ae64b8)
 
 ### Exercício 2 - "Count of Range Sum"
+
+**Nível do exercício:** Difícil
 ![WhatsApp Image 2023-06-18 at 11 00 39](https://github.com/projeto-de-algoritmos/DC_Exercicios_Dupla38/assets/49570180/2bf42984-19af-4c92-84fc-c883c6b61c62)
 
 
