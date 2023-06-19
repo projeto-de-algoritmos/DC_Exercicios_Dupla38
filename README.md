@@ -17,13 +17,28 @@ Este projeto foi feito com a resolução de 4 exercícios abordando o tema de Di
 ### Exercício 1 - "Count of Smaller Numbers After Sel"
 
 **Nível do exercício:** Difícil
+
+Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/count-of-smaller-numbers-after-self/).
+
 ![WhatsApp Image 2023-06-18 at 10 51 29](https://github.com/projeto-de-algoritmos/DC_Exercicios_Dupla38/assets/49570180/c7d99f18-cc5a-4150-b2df-273486ae64b8)
 
 ### Exercício 2 - "Count of Range Sum"
 
 **Nível do exercício:** Difícil
+
+Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/count-of-range-sum/).
+
 ![WhatsApp Image 2023-06-18 at 11 00 39](https://github.com/projeto-de-algoritmos/DC_Exercicios_Dupla38/assets/49570180/2bf42984-19af-4c92-84fc-c883c6b61c62)
 
+### Exercício 3 - "The Closest Pair Problem"
+
+**Nível do exercício:** Difícil
+
+Para acessar a página do exercício [clique aqui](https://www.beecrowd.com.br/judge/en/problems/view/1295).
+
+![image](https://github.com/projeto-de-algoritmos/DC_Exercicios_Dupla38/assets/80906504/cd0f95e5-0f5e-495e-b8a5-e7c1c8598bc5)
+
+Neste exercício foi implementado o algoritmo "Par de Pontos mais próximos". A imagem demonstra o problema escolhido, parte do código e a nota, no caso, resolvido.
 
 ## Instalação 
 **Linguagem**: Python<br>
