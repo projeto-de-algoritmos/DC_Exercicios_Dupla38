@@ -54,15 +54,14 @@ Neste exercício foi implementado o algoritmo "contagem de inversões". A imagem
 **Linguagem**: Python<br>
 Para rodar os exercícios na linguagem Python, é necessário ter a linguagem Python instalada.
 
-**Linguagem**: C<br>
-Para rodar os exercícios na linguagem C, utilize o compilador do GCC.
+**Linguagem**: C++17<br>
+Para rodar os exercícios na linguagem C++17, utilize o compilador do GCC 7.1 ou posterior.
 
 ## Uso 
 Rode os exercícios de acordo com a linguagem respectiva:
   - Para os exercícios em python, basta fazer uma cópia do código e rodar o comando:
       python nome_programa.py
-  - Para os exercícios em C, basta fazer uma cópia do código e rodar o comando:
-       gcc c –o [nome_do_programa].exe [nome_do_programa].c
+  - Para os exercícios em C++, basta fazer uma cópia do código e colar o código da solução na área de submissão, selecione a linguagem C++17(beecrowd) e então envie a submissão.
 
 ## Outros 
 Para saber mais sobre os exercícios, veja no vídeo [aqui]().
