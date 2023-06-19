@@ -40,6 +40,16 @@ Para acessar a página do exercício [clique aqui](https://www.beecrowd.com.br/j
 
 Neste exercício foi implementado o algoritmo "Par de Pontos mais próximos". A imagem demonstra o problema escolhido, parte do código e a nota, no caso, resolvido.
 
+### Exercício 4 - "Train Swapping"
+
+**Nível do exercício:** Médio
+
+Para acessar a página do exercício [clique aqui](https://www.beecrowd.com.br/judge/en/problems/view/1162?origem=1).
+
+![image](https://github.com/projeto-de-algoritmos/DC_Exercicios_Dupla38/assets/80906504/6af3488a-bdf3-4e12-9ca1-c64ddc69d5e1)
+
+Neste exercício foi implementado o algoritmo "contagem de inversões". A imagem demonstra o problema escolhido, parte do código e a nota, no caso, resolvido.
+
 ## Instalação 
 **Linguagem**: Python<br>
 Para rodar os exercícios na linguagem Python, é necessário ter a linguagem Python instalada.
