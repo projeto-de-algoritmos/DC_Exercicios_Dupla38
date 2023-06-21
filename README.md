@@ -64,4 +64,4 @@ Rode os exercícios de acordo com a linguagem respectiva:
   - Para os exercícios em C++, basta fazer uma cópia do código e colar o código da solução na área de submissão, selecione a linguagem C++17(beecrowd) e então envie a submissão.
 
 ## Outros 
-Para saber mais sobre os exercícios, veja no vídeo [aqui]().
+Para saber mais sobre os exercícios, veja no vídeo [aqui](https://youtu.be/GLknWWihUvA).
