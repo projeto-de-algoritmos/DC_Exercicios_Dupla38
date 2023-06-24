@@ -64,4 +64,11 @@ Rode os exercícios de acordo com a linguagem respectiva:
   - Para os exercícios em C++, basta fazer uma cópia do código e colar o código da solução na área de submissão, selecione a linguagem C++17(beecrowd) e então envie a submissão.
 
 ## Outros - Vídeo
-Para saber mais sobre os exercícios, veja no vídeo [aqui](https://youtu.be/GLknWWihUvA).
+Para saber mais sobre os exercícios, veja o vídeo
+
+Parte 1:
+https://github.com/projeto-de-algoritmos/DC_Exercicios_Dupla38/assets/80906504/adc42e71-756a-4c8f-be77-b5cbcfdf9ce6
+
+Parte 2:
+https://github.com/projeto-de-algoritmos/DC_Exercicios_Dupla38/assets/80906504/bc60cb78-6a89-4a61-ac05-b1effbb09d54
+
